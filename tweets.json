@@ -1,64 +1,62 @@
-static Tweet fromJson(Map<String, dynamic> json) {
-  return Tweet[
-    {
-      "emoji": "🇯🇵",
-      "userName": "Japan",
-      "text": "こんにちは！",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇺🇸",
-      "userName": "United States",
-      "text": "Hello!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇫🇷",
-      "userName": "France",
-      "text": "Bonjour!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇰🇷",
-      "userName": "Korea",
-      "text": "안녕하세요!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇨🇳",
-      "userName": "China",
-      "text": "你好！",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇩🇪",
-      "userName": "Germany",
-      "text": "Guten Tag!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇮🇹",
-      "userName": "Italy",
-      "text": "Ciao!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇪🇸",
-      "userName": "Spain",
-      "text": "¡Hola!",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇮🇳",
-      "userName": "India",
-      "text": "नमस्ते! ",
-      "createdAt": "2025/11/10"
-    },
-    {
-      "emoji": "🇧🇷",
-      "userName": "Brazil",
-      "text": "Olá!",
-      "createdAt": "2025/11/10"
-    }
-  ]
-}
+[
+  {
+    "emoji": "🇯🇵",
+    "userName": "Japan",
+    "text": "こんにちは！",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇺🇸",
+    "userName": "United States",
+    "text": "Hello!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇫🇷",
+    "userName": "France",
+    "text": "Bonjour!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇰🇷",
+    "userName": "Korea",
+    "text": "안녕하세요!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇨🇳",
+    "userName": "China",
+    "text": "你好！",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇩🇪",
+    "userName": "Germany",
+    "text": "Guten Tag!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇮🇹",
+    "userName": "Italy",
+    "text": "Ciao!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇪🇸",
+    "userName": "Spain",
+    "text": "¡Hola!",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇮🇳",
+    "userName": "India",
+    "text": "नमस्ते! ",
+    "createdAt": "2025/11/10"
+  },
+  {
+    "emoji": "🇧🇷",
+    "userName": "Brazil",
+    "text": "Olá!",
+    "createdAt": "2025/11/10"
+  }
+]
